@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   LinkedIn:
-<a href="https://linkedin.com/in//in/piruthuviraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/piruthuviraj" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/piruthuviraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/piruthuviraj" height="30" width="40" /></a>
   Facebook:
 <a href="https://fb.com/piruthuvi.r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="piruthuvi.r/" height="30" width="40" /></a>
   Medium:
