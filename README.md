@@ -2,6 +2,7 @@
 <h3 align="center">A passionate full stack developer from Jaffna, Sri Lanka.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piruthuvi22&label=Profile%20views&color=0e75b6&style=flat" alt="piruthuvi22" /> </p>
+
 - 💫 Reasonably good at **MERN Stack development.**
 
 - 🎓 Currently I'm Reading BSc(Hons) in Information Technology degree at **University of Moratuwa, Sri Lanka.**
@@ -12,17 +13,18 @@
 
 - 📫 How to reach me **piruthuviraj22@gmail.com**
 
-- 🧩 
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  LinkedIn:
 <a href="https://linkedin.com/in//in/piruthuviraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/piruthuviraj" height="30" width="40" /></a>
+  Facebook:
 <a href="https://fb.com/piruthuvi.r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="piruthuvi.r/" height="30" width="40" /></a>
-<a href="https://medium.com/@piruthuviraj22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@piruthuviraj22" height="30" width="40" /></a>
+  Medium:
+<a href="https://medium.com/@piruthuviraj22" target="blank"><img align="center" src="https://images.squarespace-cdn.com/content/v1/615c80853a0d643789c28851/1634059993070-QXC6AP8SXACKYOMNRCO7/Medium+logo" alt="@piruthuviraj22" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
