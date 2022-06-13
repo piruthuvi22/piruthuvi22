@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **piruthuviraj22@gmail.com**
 
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
