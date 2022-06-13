@@ -24,7 +24,7 @@
   Facebook:
 <a href="https://fb.com/piruthuvi.r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="piruthuvi.r/" height="30" width="40" /></a>
   Medium:
-<a href="https://medium.com/@piruthuviraj22" target="blank"><img align="center" src="https://images.squarespace-cdn.com/content/v1/615c80853a0d643789c28851/1634059993070-QXC6AP8SXACKYOMNRCO7/Medium+logo" alt="@piruthuviraj22" height="30" width="40" /></a>
+<a href="https://medium.com/@piruthuviraj22" target="blank"><img align="center" src="https://cdn.mos.cms.futurecdn.net/xJGh6cXvC69an86AdrLD98.jpg" alt="@piruthuviraj22" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
