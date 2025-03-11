@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piruthuvi22&label=Profile%20views&color=0e75b6&style=flat" alt="piruthuvi22" /> </p>
 
-- 💫 Good at **React | React Native | Flutter | Express.js | Springboot**
+- 💫 Good at **React | React Native | Express.js | Springboot**
 
 - 🎓 Currently I'm Reading BSc(Hons) in Information Technology degree at **University of Moratuwa, Sri Lanka.**
 
-- 💡 Highly interested in **Full Stack development, Apps development.**
+- 💡 Highly interested in **Full Stack development, Mobile development.**
 
 - 📝 Check my articles on [https://medium.com/@piruthuviraj22](https://medium.com/@piruthuviraj22)
 
@@ -36,7 +36,6 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40"/> </a> 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" alt="react-native" width="40" /> </a> 
 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" /> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" /> </a>
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" /> </a>
